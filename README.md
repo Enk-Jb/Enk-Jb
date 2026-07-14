@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Enk 👋
 
-<!--
-**Enk-Jb/Enk-Jb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student from Togo.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Git & GitHub
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a Software Engineer
+- Build desktop, web, and mobile applications
+- Contribute to open-source projects
+
+## Current Projects
+- Python Task Manager
+- Personal learning projects
+
+## GitHub Journey
+I'm using GitHub to document my learning journey and track my progress as a developer.
